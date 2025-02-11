@@ -1,4 +1,4 @@
-# 🤰 Pregnancy Symptom Tracker
+# 🤰 Materna: Pregnancy Symptom Tracker
 
 ### Track your pregnancy journey with ease and confidence!
 
