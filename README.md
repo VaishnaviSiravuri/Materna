@@ -87,44 +87,6 @@ The **Pregnancy Symptom Tracker** is a web app designed to help expectant mother
 
 ---
 
-## 🎯 How to Get Started
-
-### 🛠️ Setup Instructions
-1. Clone the repo
-   ```sh
-   git clone https://github.com/your-username/pregnancy-symptom-tracker.git
-   cd pregnancy-symptom-tracker
-   ```
-2. Install dependencies
-   ```sh
-   npm install  # or yarn install
-   ```
-3. Start the development server
-   ```sh
-   npm start  # or yarn start
-   ```
-4. Deploy on Vercel
-   ```sh
-   vercel
-   ```
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! If you’d like to help improve the app, feel free to:
-- Fork the repo
-- Make improvements
-- Submit a pull request
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**. Feel free to modify and use it!
-
----
-
 ## 📩 Contact
 
 Have questions or feedback? We'd love to hear from you!
